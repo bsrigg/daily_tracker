@@ -1,6 +1,6 @@
 {
     "name": "buttonapp",
-    "homepage": "https://bsrigg.github.io/daily_tracker",
+    "homepage": "https://bsrigg.github.io/activity_tracker",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
